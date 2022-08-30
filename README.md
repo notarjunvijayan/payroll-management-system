@@ -1,7 +1,7 @@
 # Payroll Management System 
 ----------
 
-##Language Used:
+## Language Used:
 * Java
 
 ## Database Used:
@@ -15,39 +15,8 @@
 * Pay-slip generation
 * All type report generation( All employee information report, leave report, Deduction report, Incentives report).
 
-### Screenshot of the System
-
-![splash screen](splash.png)
-
-![Home](home.png)
-
-![Register](register.png)
-
-![emp_menu](emp_menu.png)
-
-![salary](basic salary.png)
-
-![bonus](bonus.png)
-
-![deduction](deductions.png)
-
-![incentives](incetives.png)
-
-![leave entry](leave_entry.png)
-
-![leave settings](leave_settings.png)
-
-![leave report] (leave_report.png)
-
-![all employee](all_emp.png)
-
-![incentives report](incentive_report.png)
-
-![deduction report](deduction_report.png)
-
-![payslip](payslip.png)
-
-![about us](aboutus.png)
+### Source
+Forked from @vimoxshah
 
 
 
